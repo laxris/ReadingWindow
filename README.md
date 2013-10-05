@@ -11,12 +11,13 @@ The program is free to use.
 
 HOTKEYS
 =======
-
+<pre>
 Shift+Esc			|	Exit
 Alt+r			 	|	Hide and Toggle Hotkeys
 Shift+Backspace		|	Toggle Hotkeys
 Shift+Arrow			|	Resize the slit size
 Arrow				|	Move the blend
+</pre>
 
 TODO list
 =========
